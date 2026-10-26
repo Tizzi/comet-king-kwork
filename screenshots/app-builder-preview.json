@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "АльянсАвто — б/у автозапчасти",
+      "hasCanvas": false,
+      "bodyTextLen": 1378,
+      "bodyTextHash": "f25f26ac92b6ded56db88095f7930da144aa51f1c3e639b00dde74745f435eca",
+      "bodyTextPrefix": "8 (831) 414-29-83 8 (831) 414-29-86 8 (903) 602-29-83 8 (903) 60",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "АльянсАвто — б/у автозапчасти",
+      "hasCanvas": false,
+      "bodyTextLen": 1311,
+      "bodyTextHash": "bd45234b6a4aba91de9f1e7d965e22d64e1275ad48844fe637199c7d664756a0",
+      "bodyTextPrefix": "8 (831) 414-29-83 8 (831) 414-29-86 8 (903) 602-29-83 8 (903) 60",
+      "horizontalOverflow": false,
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 404 ()"
+      ],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

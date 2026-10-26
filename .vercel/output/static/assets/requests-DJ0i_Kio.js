@@ -1,0 +1,1 @@
+import{t as e}from"./createClientRpc-CkaUuWxt.js";import{n as t,t as n}from"./middleware-Bcx_ZVYX.js";var r=t({method:`GET`}).middleware([n]).handler(e(`b142e9eefe17a4e51ed75dc9575f14409cffde65877982f6bf4402788d072420`)),i=t({method:`POST`}).middleware([n]).handler(e(`b49d40f18133225d9ee646a6bd1138e30ec524a6c35d7571c2fcf28d9b4c1998`));export{r as n,i as t};
